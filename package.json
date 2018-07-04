@@ -1,0 +1,27 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Express hello world server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirvanagit/node-app.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Anubhav Aeron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirvanagit/node-app/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "homepage": "https://github.com/nirvanagit/node-app#readme"
+}
